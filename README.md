@@ -13,10 +13,11 @@ El año aproximado del canal de está serie de vídeos es de Noviembre del 2017
 ## Versión actual
 El funcionamiento actual, permite jugar, pero no tiene agregado la opción de sonido y puntaje.
 
+<img style="padding-top:30px;width:100%;height:100%;" src="/imagen-animacion/tetris.gif" alt="tetris">
 
 
 ## Descargar
-[Tetris](https://github.com/santoslopez/juego-tetris/dist/JuegoTetris.jar).
+[Tetris](https://github.com/santoslopez/juego-tetris/blob/master/JuegoTetris/dist/JuegoTetris.jar).
 
 
 ### Requerimientos
